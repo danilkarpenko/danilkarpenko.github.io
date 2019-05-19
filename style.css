@@ -1,0 +1,39 @@
+body {
+    font-family: Georgia;
+    font-size: 16px;
+    margin: 0 auto;   /* center content */
+    max-width: 800px; /* limit width */
+    line-height: 1.5;
+    padding-top: 32px;
+    padding-bottom: 32px;
+  }
+  #header{
+      
+  }
+  #main{
+      
+  }
+  #footer{
+      margin-top: 70px;
+      text-align: end;
+      text-align: center;
+  }
+  .under{
+      margin-bottom: 0px;
+  }
+  .untop{
+      margin-top: 0px;
+  }
+  #line{
+      display: block;
+      background-color: black;
+      height: 1px;
+  }
+  .text1{
+      font-style: oblique;
+      color: blueviolet;
+  }
+  /* BEGIN (write your solution here) */
+  
+  /* END */
+  
